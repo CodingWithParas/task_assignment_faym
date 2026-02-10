@@ -175,7 +175,7 @@ This project is created as part of a Flutter internship assignment.
 
 ## Author
 
-Your Name - Paras Sharma
+Name - Paras Sharma
 
 ---
 
